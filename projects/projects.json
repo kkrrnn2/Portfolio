@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Coffee Shop Page",
+    "desc": "A project built with EJS",
+    "image": "SteepSip",
+    "category": "ejs",
+    "links": {
+      "view": "https://coffee-shop-iz4jio8r2-karans-projects-e73a7347.vercel.app/",
+      "code": "https://github.com/kkrrnn2/coffeeShop"
+    }
+  },
+  {
+    "name": "NetFlix Clone",
+    "desc": "A react UI project",
+    "image": "Netflixcln",
+    "category": "javascript",
+    "links": {
+      "view": "https://netflixcln-vert.vercel.app/",
+      "code": "https://github.com/kkrrnn2/netFLixCln"
+    }
+  },
+  {
+    "name": "News App",
+    "desc": "A very futuristic and modern website with a very cool design and animations.",
+    "image": "NewsApp",
+    "category": "javascript",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kkrrnn2/KVK_News"
+    }
+  }
+]
